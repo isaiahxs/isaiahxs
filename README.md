@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiahxs
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning JS/HTML/CSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: isaiahsinnathamby@gmail.com
 
