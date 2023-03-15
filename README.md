@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me :
  
 - ⚡ I'm a bilingual Full Stack Developer from Maryland, USA
-- 👀 I enjoy contributing to frontend and backend programs and web applications
+- 👀 I enjoy contributing to frontend and backend programs as well as web applications
 - 🌱 I’m currently learning Redux
 - 🤝 I’m looking to collaborate on projects
 - 📫 How to reach me: isaiahsinnathamby@gmail.com or my LinkedIn down below!
