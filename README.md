@@ -16,7 +16,7 @@
  
 - ⚡ I'm a bilingual Full Stack Developer from Maryland, USA
 - 👀 When I'm not coding, I work on certifications from MAMAA companies
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently improving my Python skills
 - 🤝 I’m looking to collaborate on projects
 - 📫 How to reach me: isaiahsinnathamby@gmail.com or my LinkedIn down below!
   
