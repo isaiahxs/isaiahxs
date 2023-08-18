@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me :
  
 - ⚡ I'm a bilingual Full Stack Developer from Maryland, USA
-- 👀 When I'm not coding, I work on certifications from MAMAA companies
+- 👀 On the side, I also work on certifications from FAANG companies
 - 🌱 I’m currently improving my Python skills
 - 🤝 I’m currently looking for opportunities
 - 📫 How to reach me: isaiahsinnathamby@gmail.com or my LinkedIn down below!
