@@ -6,7 +6,7 @@
  <div align='center'>
   <!-- text with wave -->
   <h1>
-    I'm coding every day in 2023! 🔥
+    I coded every day in 2023! 🔥
 <!--     <img src="https://media.giphy.com/media/xTiQywlOn0gKyz0l56/giphy.gif" width="70px"/> -->
 <!--    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->    
   </h1>
