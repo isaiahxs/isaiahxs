@@ -6,7 +6,7 @@
  <div align='center'>
   <!-- text with wave -->
   <h1>
-    Developer, Designer, and Brand Manager
+    Developer, Designer, and Brand Manager -
     Building the Future of Digital Interactions
 <!--     <img src="https://media.giphy.com/media/xTiQywlOn0gKyz0l56/giphy.gif" width="70px"/> -->
 <!--    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->    
